@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS movie_count FROM Movies;
